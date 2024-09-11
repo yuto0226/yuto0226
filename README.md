@@ -19,6 +19,13 @@ Here is some personal information about me:
 - 🌱 I’m currently learning ML & Front End & Binary Exploitation
 - 👯 I’m member of Open Source and Service Club([TTUSSC](https://github.com/TTUSSC)) in Taiwan
 
+<a href="https://github.com/TTUSSC/Earth_Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TTUSSC&repo=Earth_Game" />
+</a>
+<a href="https://github.com/yuto0226/FromC2Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuto0226&repo=FromC2Python" />
+</a>
+
 ## Development
 ![SkillIcon](https://skillicons.dev/icons?i=arch,c,python,flask,vue,neovim)
 
