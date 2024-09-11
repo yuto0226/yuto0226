@@ -12,8 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Welcome to Yuto's Zone
+# Welcome to Yuto's Zone
 Here is some personal information about me:
 
-- 🔭 I’m currently studying in TTU
-- 🌱 I’m currently learning ML & Front End
+- 🔭 I’m currently studying in Tatung University
+- 🌱 I’m currently learning ML & Front End & Binary Exploitation
+- 👯 I’m member of Open Source and Service Club([TTUSSC](https://github.com/TTUSSC)) in Taiwan
+
+## Development
+![SkillIcon](https://skillicons.dev/icons?i=arch,c,python,flask,vue,neovim)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yuto0226" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuto0226&layout=compact&langs_count=8&card_width=320" />
+</a>
