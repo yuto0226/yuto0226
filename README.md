@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Here is some personal information about me:
 
 - 🔭 I’m currently studying in Tatung University
-- 🌱 I’m currently learning ML & Front End & Binary Exploitation
+- 🌱 I’m currently learning Malware Analysis/Development & Binary Exploitation
 - 👯 I’m member of Open Source and Service Club([TTUSSC](https://github.com/TTUSSC)) in Taiwan
 
 ## Development
